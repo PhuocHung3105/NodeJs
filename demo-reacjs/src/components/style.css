@@ -1,0 +1,21 @@
+.wrapper {
+    display: flex;
+    align-items: center;
+    font-family: Arial, sans-serif;
+    border: solid;
+  }
+  
+  .profile-image {
+    width: 200px;
+    height: 200px;
+    margin-right: 10px;
+  }
+  
+  .profile-content {
+    color: #333;
+  }
+  
+  .profile-item {
+    margin-bottom: 5px;
+    display: flex;
+  }
